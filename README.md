@@ -14,12 +14,12 @@
     6. Manage > theme > color theme > Shades and Stroke
 
 ## Preview
-![Image1](images/vs1.jpeg)
 
-![Image2](images/vs2.jpeg)
+![vs1](https://github.com/snehap02/ShadesAndStroke-VS-Code/assets/58648780/3f22fda3-c7f4-4b2a-86de-639d5e0e8757)
 
-![Image3](images/vs3.jpeg)
+![vs2](https://github.com/snehap02/ShadesAndStroke-VS-Code/assets/58648780/85c1ef7d-3dd2-45fc-892b-cb791dcd03fa)
 
+![vs3](https://github.com/snehap02/ShadesAndStroke-VS-Code/assets/58648780/64375b16-102c-4a20-9500-aee49e81d326)
 
 ## Some of the colors from COLOR PALETTE
 
