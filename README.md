@@ -21,7 +21,7 @@
 ![Image3](images/vs3.jpeg)
 
 
-## Some of the colors from COLOR PALLATE
+## Some of the colors from COLOR PALETTE
 
 | Usage             | Color  |  Hex                                                            |
 | ----------------- | ------------------------------------------------------------------ |----------------------------------------------|
@@ -33,7 +33,7 @@
 | `functions` , `methods` | ![#61afef](https://via.placeholder.com/10/61afef?text=+) | #61afef
 | `strings` | ![#98c379](https://via.placeholder.com/10/98c379?text=+) | #98c379
 | `operators`, `special functions` | ![#56b6c2](https://via.placeholder.com/10/56b6c2?text=+) | #56b6c2
-<br><br><br>
+<br><br>
 <hr>
 
 <h1 align = "center" > 👨‍💻 Happy Coding 👩‍💻 </h1>
