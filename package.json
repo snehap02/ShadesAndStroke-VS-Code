@@ -1,0 +1,34 @@
+{
+  "name": "shades-and-stroke",
+  "displayName": "Shades and Stroke",
+  "description": "A beautiful VS Code theme for your better coding",
+  "version": "0.0.1",
+  "publisher": "SnehaPurkayastha",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "shades",
+    "stroke"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaPurkayastha/shades-and-stroke.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shades and Stroke",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shades and Strokes-color-theme.json"
+      }
+    ]
+  }
+}
