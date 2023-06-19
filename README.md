@@ -2,7 +2,7 @@
 
 
 ## Description
-`A VS Code Dark theme with shades and strokes of beautiful colors for better coding.`
+`A VS Code Dark theme based on one dark pro with shades and strokes of beautiful colors for better coding.`
 
 ## Installation via VS Code
 
@@ -21,7 +21,7 @@
 ![Image3](images/vs3.jpeg)
 
 
-## Some of the colors from COLOR PALLATE
+## Some of the colors from COLOR PALETTE
 
 | Usage             | Color  |  Hex                                                            |
 | ----------------- | ------------------------------------------------------------------ |----------------------------------------------|
