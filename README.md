@@ -25,9 +25,9 @@
 
 | Usage             | Color  |  Hex                                                            |
 | ----------------- | ------------------------------------------------------------------ |----------------------------------------------|
-| `comments` | ![#adadad](https://via.placeholder.com/10/adadad?text=+)  |#adadad|
+| `comments` | ![#757575](https://via.placeholder.com/10/757575?text=+)  |#757575|
 | `variables` , `properties` | ![#e06c75](https://via.placeholder.com/10/e06c75?text=+) | #e06c75
-| `keywords` | ![#c678dd](https://via.placeholder.com/10/c678dd?text=+) | #c678dd
+| `keywords` | ![#c678dd](h757575/via.placeholder.com/10/c678dd?text=+) | #c678dd
 | `numbers` | ![#d19a66](https://via.placeholder.com/10/d19a66?text=+) | #d19a66
 | `classes` , `constants` | ![#e5c07b](https://via.placeholder.com/10/e5c07b?text=+) | #e5c07b
 | `functions` , `methods` | ![#61afef](https://via.placeholder.com/10/61afef?text=+) | #61afef
